@@ -1,18 +1,14 @@
 {
   "users": [
     {
-      "id": 1
+      "id": 1,
       "name": "teste",
       "password": "teste"
     },
     {
-      "id": 2
+      "id": 2,
       "name": "hugo",
-      "password": "hugo",
-      "response": [
-          "username": "hugo",
-          "password": "hugo"
-        ]
+      "password": "hugo"
     }
   ]
 }
