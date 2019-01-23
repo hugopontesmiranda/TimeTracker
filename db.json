@@ -6,7 +6,8 @@
     },
     {
       "name": "hugo",
-      "password": "hugo"
+      "password": "hugo",
+      "success": "hugo"
     }
   ]
 }
